@@ -36,3 +36,9 @@ Exemplo de resposta:
 ```
 ##### Falha na autenticação! 401
 Caso essa resposta aconteça, isso significa que aconteceu alguma falha durante o processo de requisição. Motivos: Token inválido, Token expirado.
+
+```
+{
+    "err": "Token inválido!"
+}
+```
