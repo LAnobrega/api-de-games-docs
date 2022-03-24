@@ -8,6 +8,7 @@ Nenhum
 #### Respostas
 ##### OK! 200
 Caso essa resposta acontecer você vai receber a listagem de todos os games.
+
 Exemplo de resposta:
 ```
 
