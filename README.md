@@ -7,7 +7,7 @@ Este endpoint é responsavel por retornar a listagem de todos os games cadastrad
 Nenhum
 #### Respostas
 ##### OK! 200
-Caso essa resposta acontecer você vai receber a listagem de todos os games
+Caso essa resposta acontecer você vai receber a listagem de todos os games.
 Exemplo de resposta:
 ```
 
